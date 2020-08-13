@@ -142,4 +142,4 @@ L.geoJson(data, {
     return L.marker(latlng).bindPopup("<h2>" + feature.properties.city + "</h2>" + "<h3>" + feature.properties.name + "</h3>" );
   }
 }).addTo(map);
-});
+}); 
