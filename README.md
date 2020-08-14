@@ -11,3 +11,15 @@ The goals are to:
 ## Resources
 - Index: cf. **index.html** files under [Earthquake_Challenge](Earthquake_Challenge/) folder
 - Code: cf. files under the [static](Earthquake_Challenge/static) folder
+
+## Technologies used
+- JavaScript:
+    - version ES6+
+    - D3.js
+    - Leaflet control plugins
+- HTML
+- CSS (including Leaflet control plugins)
+- Mapbox API
+
+## Overview
+>![Overview.png](Earthquake_Challenge/Overview.png)
